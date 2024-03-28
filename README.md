@@ -29,4 +29,4 @@ Yin, Y., Xu, G., Xie, Y., Luo, Y., Wei, Z., & Li, Z. (2024). Utilizing Deep Lear
 3. 
 4. 
 5. 
-6. 
+6. [Zhengning Li](https://github.com/jim9586)
