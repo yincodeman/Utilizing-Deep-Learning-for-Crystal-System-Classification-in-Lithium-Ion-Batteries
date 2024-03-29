@@ -25,7 +25,7 @@ Yin, Y., Xu, G., Xie, Y., Luo, Y., Wei, Z., & Li, Z. (2024). Utilizing Deep Lear
 ```
 ## Authors
 1. [Yibo Yin](https://github.com/yincodeman) 
-2. 
+2. [Guokun Xu](https://github.com/Matthewave)
 3. 
 4. 
 5. 
